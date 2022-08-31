@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LGM-Task-4-Website-using-React-App/static/css/main.392f90e0.css",
+    "main.js": "/LGM-Task-4-Website-using-React-App/static/js/main.b37f7684.js",
+    "static/js/787.994511a4.chunk.js": "/LGM-Task-4-Website-using-React-App/static/js/787.994511a4.chunk.js",
+    "index.html": "/LGM-Task-4-Website-using-React-App/index.html",
+    "main.392f90e0.css.map": "/LGM-Task-4-Website-using-React-App/static/css/main.392f90e0.css.map",
+    "main.b37f7684.js.map": "/LGM-Task-4-Website-using-React-App/static/js/main.b37f7684.js.map",
+    "787.994511a4.chunk.js.map": "/LGM-Task-4-Website-using-React-App/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.392f90e0.css",
+    "static/js/main.b37f7684.js"
+  ]
+}
